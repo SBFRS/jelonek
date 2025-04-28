@@ -7,7 +7,7 @@ sections:
       text: Witaj na stronie Jelonka!
       color: text-dark
       type: TitleBlock
-    subtitle: Jest to strona dla dzieci
+    subtitle: Jest to strona przyjazna dzieciom
     text: |
       Szefem jest tutaj Łucja i Oliwia :)
     actions:
