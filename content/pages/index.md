@@ -11,7 +11,7 @@ sections:
     text: |
       Szefem jest tutaj Łucja i Oliwia :)
     actions:
-      - label: Przejdź do świata Jelonka
+      - label: Sprawdź co słychać u Jelonka
         altText: ''
         url: /
         showIcon: false
