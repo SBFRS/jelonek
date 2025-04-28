@@ -20,7 +20,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Zobacz zdjęcia
+      - label: ''
         altText: ''
         url: /
         showIcon: true
