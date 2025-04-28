@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Witaj na stronie Jelonka.
+      text: Witaj na stronie Jelonka!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
